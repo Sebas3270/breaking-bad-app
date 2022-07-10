@@ -100,7 +100,7 @@ body {
     -webkit-animation: ${bc} 2s linear infinite; /* Safari */
     animation: ${bc} 2s linear infinite;
 
-`;var Oy="/assets/404.18ae4fbd.png";const rh=()=>$(Ty,{src:Oy}),Ty=H.img`
+`;var Oy="/breaking-bad-app/assets/404.18ae4fbd.png";const rh=()=>$(Ty,{src:Oy}),Ty=H.img`
 
   width: 400px;
   align-self: center;
@@ -263,7 +263,7 @@ body {
   grid-auto-rows: auto;
   grid-gap: 20px;
   margin-bottom: 30px;
-`;var e1="/assets/bg.e62d5186.jpg";const t1=()=>$(un,{children:$(n1,{children:te(r1,{children:[$(o1,{children:"Welcome to my app"}),$(i1,{children:"This app was made using React with Typescript, Styled-components, Axios, React-router-dom, Custom hooks and the Breaking Bad Api."})]})})}),n1=H.div`
+`;var e1="/breaking-bad-app/assets/bg.e62d5186.jpg";const t1=()=>$(un,{children:$(n1,{children:te(r1,{children:[$(o1,{children:"Welcome to my app"}),$(i1,{children:"This app was made using React with Typescript, Styled-components, Axios, React-router-dom, Custom hooks and the Breaking Bad Api."})]})})}),n1=H.div`
 
   height: 100vh;
 
