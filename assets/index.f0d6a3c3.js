@@ -392,4 +392,4 @@ body {
   text-decoration: none;
   cursor: pointer;
   font-weight: bold;
-`,y1=()=>$(e0,{children:te(Ut,{element:$(p1,{}),children:[$(Ut,{index:!0,element:$(t1,{})}),te(Ut,{path:"characters",children:[$(Ut,{index:!0,element:$(Ky,{})}),$(Ut,{path:":characterId",element:$(Ly,{})})]}),$(Ut,{path:"episodes",element:$(qy,{})}),$(Ut,{path:"*",element:$(m1,{})})]})});function w1(){return $("div",{className:"App",children:$(y1,{})})}Xl.createRoot(document.getElementById("root")).render($(pr.StrictMode,{children:te(r0,{children:[$(ky,{}),$(w1,{})]})}));
+`,y1=()=>$(e0,{children:te(Ut,{element:$(p1,{}),children:[$(Ut,{index:!0,element:$(t1,{})}),te(Ut,{path:"characters",children:[$(Ut,{index:!0,element:$(Ky,{})}),$(Ut,{path:":characterId",element:$(Ly,{})})]}),$(Ut,{path:"episodes",element:$(qy,{})}),$(Ut,{path:"*",element:$(m1,{})})]})});function w1(){return $("div",{className:"App",children:$(y1,{})})}Xl.createRoot(document.getElementById("root")).render($(pr.StrictMode,{children:te(r0,{basename:"/breaking-bad-app",children:[$(ky,{}),$(w1,{})]})}));
