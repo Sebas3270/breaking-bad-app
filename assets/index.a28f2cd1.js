@@ -299,7 +299,7 @@ body {
   @media ${Rn.mobileL} { 
     text-align: left;
   }
-`,ih=()=>(Tn(),location.pathname==="/"),l1=()=>{const e=ih();return $(u1,{className:e?"main":"",children:te(a1,{children:[te(s1,{to:"/",children:[$(c1,{className:e?"main":"",children:"Breaking Bad App"}),$(f1,{className:e?"main":"",children:"By Sebastian Alvarez"})]}),te(d1,{children:[$(rf,{className:e?"main":"",to:"characters",children:"Characters"}),$(rf,{className:e?"main":"",to:"episodes",children:"Episodes"})]})]})})},u1=H.nav`
+`,ih=()=>(Tn(),location.pathname==="/breaking-bad-app"),l1=()=>{const e=ih();return $(u1,{className:e?"main":"",children:te(a1,{children:[te(s1,{to:"/",children:[$(c1,{className:e?"main":"",children:"Breaking Bad App"}),$(f1,{className:e?"main":"",children:"By Sebastian Alvarez"})]}),te(d1,{children:[$(rf,{className:e?"main":"",to:"characters",children:"Characters"}),$(rf,{className:e?"main":"",to:"episodes",children:"Episodes"})]})]})})},u1=H.nav`
     width: 100%;
     height: 75px;
     //background-color: #3C7322;
