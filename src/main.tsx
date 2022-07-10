@@ -6,7 +6,7 @@ import { GlobalStyle } from "./styles/Styles"
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
-    <BrowserRouter basename='http://Sebas3270.github.io/breaking-bad-app'>
+    <BrowserRouter>
       <GlobalStyle/>
       <App />
     </BrowserRouter>
